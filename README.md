@@ -5,7 +5,7 @@ A movie app again!
 
 Models Class Diagram   
 
-![alt text](https://github.com/RonanFelipe/djangoGrapheneGraphql/blob/master/imagens/class_diagram.PNG "Model Class Diagram")  
+![alt text](https://github.com/RonanFelipe/djangoGrapheneGraphql/blob/master/imagens/models_class_diagram.PNG "Model Class Diagram")  
 
 
 Still building...
