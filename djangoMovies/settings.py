@@ -86,10 +86,6 @@ WSGI_APPLICATION = 'djangoMovies.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        # 'NAME': 'djangofilmes',
-        # 'USER': 'ronanfelipe',
-        # 'PASSWORD': 'nadanada00',
-        # 'HOST': 'db4free.net',
         'NAME': 'movies',
         'USER': 'root',
         'PASSWORD': '',
