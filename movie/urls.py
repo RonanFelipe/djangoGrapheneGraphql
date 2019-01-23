@@ -10,7 +10,4 @@ router.register(r'directors', views.DirectorSet)
 
 urlpatterns = [
     url(r'^', include(router.urls)),
-    url(r'new/$', views.write_pdf_view),
-    # url(r'nova/$', views.write_exam_pdf),
-    path('nova/<int:id>/', views.write_exam_pdf)
 ]
